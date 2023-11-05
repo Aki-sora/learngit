@@ -12,7 +12,7 @@ void fl(int g)
 int main()
 {
 	int x;
-	int test; 
+	int testdev; 
 	cin>>x;
 	fl(x);
 	return 0;
